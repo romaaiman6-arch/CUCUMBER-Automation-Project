@@ -1,4 +1,4 @@
-# CUCUMBER Automation Testing
+# Cucumber Automation Testing
 
 ## Project Description
 
@@ -21,7 +21,18 @@ Java, Maven, TestNG, and Cucumber.
 - Mozilla Firefox
 - Internet connection
 
-## Run TestNG Tests
+## Run Cucumber  Tests
+Test Scenarios
+Login
+Logout
+Signup
+Product search
+Product details
+Cart
+Checkout
+Payment
+Contact Us
+Test Cases page
 
-```bash
-mvn test
+##Demo video
+https://drive.google.com/file/d/1B6suAZQkGZ1Gwt0puz1Il0ToWNaYk2T4/view?usp=sharing
